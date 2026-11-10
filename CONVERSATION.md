@@ -25,3 +25,12 @@ What is the first argument of the `print()` function?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-11-10 16:46, in .
+
+**Me:** what does if number_2 !=0 mean
+
+**Tutor:**
+
+Refused, off topic.
