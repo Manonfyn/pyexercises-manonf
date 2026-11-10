@@ -98,3 +98,19 @@ What argument can you give to pop to remove the first element instead?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-11-10 23:24, in .
+
+**Me:** What does customer.items() do in Python?
+
+**Tutor:**
+
+`customer.items()` is used to return key-value pairs from a dictionary.
+
+```python
+customer = {"name": "Alex", "age": 30, "city": "Paris"}
+# TODO: Use .items() to print each key and value
+```
+
+What does `.items()` return that you can loop over?
