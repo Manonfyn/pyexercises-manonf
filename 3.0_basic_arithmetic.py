@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What happens when the second number is zero, and why:
+# 1. In: 2 numbers 
+# 2. Process: Add, subtract, multiply and divide them
+# 3. Out: The results of the four operations
+# 4. What happens when the second number is zero, and why: If the second number is zero: display a message instead of dividing
 
 
 # Your code below
