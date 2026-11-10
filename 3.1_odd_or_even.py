@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What happens on 0, on a negative number, on a very large number:
+# 1. In: a number
+# 2. Process: Check if each number from 1 to N is odd or even
+# 3. Out:Each number with "odd" or "even"
+# 4. What happens on 0, on a negative number, on a very large number:For 0 or negative numbers: display a message. For large numbers: display all results
 
 
 # Your code below
