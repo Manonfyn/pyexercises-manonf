@@ -16,3 +16,12 @@ Printing in Python is done with the `print()` function.
 ```
 
 What is the first argument of the `print()` function?
+
+---
+## 2026-11-10 15:54, in .
+
+**Me:** how to get an ipunt from user in python
+
+**Tutor:**
+
+Refused, off topic.

@@ -22,10 +22,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In: 
-# 2. Process:
-# 3. Out:
-# 4. My message, and why:
+# 1. In: the message is "Manon" and the number of repetitions is : 5.
+# 2. Process: Display the message 5 times, numbering each line from 1 to 5.
+# 3. Out: 5 numbered lines containing the message "Manon".
+# 4. My message, and why: I chose "Manon" cause it's my first name
 
 
 # Your code below
