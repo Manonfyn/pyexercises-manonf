@@ -59,3 +59,17 @@ What does `strip()` return when the string is `"\t  alpha  \n"`?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-11-10 22:54, in .
+
+**Me:** What does % 2 mean in Python?
+
+**Tutor:**
+
+The modulo operator.
+
+It returns the remainder of dividing the left number by 2.
+Example: 5 % 2 → 1, because 5 = 2×2 + 1.
+
+Question: what is 8 % 2?
