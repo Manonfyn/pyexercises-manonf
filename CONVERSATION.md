@@ -89,3 +89,12 @@ last = numbers.pop()  # TODO what is the value of last?
 ```
 
 What argument can you give to pop to remove the first element instead?
+
+---
+## 2026-11-10 23:17, in .
+
+**Me:** Does sorted(numbers) change the original list?
+
+**Tutor:**
+
+Refused, off topic.
