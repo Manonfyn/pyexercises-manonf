@@ -73,3 +73,19 @@ It returns the remainder of dividing the left number by 2.
 Example: 5 % 2 → 1, because 5 = 2×2 + 1.
 
 Question: what is 8 % 2?
+
+---
+## 2026-11-10 23:11, in .
+
+**Me:** What does numbers.pop() do in Python?
+
+**Tutor:**
+
+A list method that removes and returns the last item.
+
+```python
+numbers = [10, 20, 30]
+last = numbers.pop()  # TODO what is the value of last?
+```
+
+What argument can you give to pop to remove the first element instead?
