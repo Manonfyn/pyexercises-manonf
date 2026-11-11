@@ -114,3 +114,20 @@ customer = {"name": "Alex", "age": 30, "city": "Paris"}
 ```
 
 What does `.items()` return that you can loop over?
+
+---
+## 2026-11-11 11:46, in .
+
+**Me:** What does round(percentage, 2) do in Python?
+
+**Tutor:**
+
+Rounds a floating-point number to two decimal places.
+
+```python
+# Example
+percentage = 12.34567
+rounded = round(percentage, 2)  # TODO: What value will rounded have?
+```
+
+What argument controls the number of decimal places in the `round()` function?
