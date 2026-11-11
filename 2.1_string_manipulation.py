@@ -24,10 +24,14 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My four transformations, and when each is useful:
+# 1. In: a sentence
+# 2. Process: Apply four transformations to the sentence
+# 3. Out: Four versions of the same sentence
+# 4. My four transformations, and when each is useful: My four transformations, and when each is useful:
+#   Uppercase: to make a short label stand out.
+#   Lowercase: to compare text without worrying about capital letters.
+#   Strip: to remove extra spaces at the start and end of a form entry.
+#   Title case: to capitalise each word in a heading.
 
 
 # Your code below
