@@ -131,3 +131,24 @@ rounded = round(percentage, 2)  # TODO: What value will rounded have?
 ```
 
 What argument controls the number of decimal places in the `round()` function?
+
+---
+## 2026-11-11 12:01, in .
+
+**Me:** What does break do in a Python while loop?
+
+**Tutor:**
+
+A `break` statement exits the current loop immediately.
+
+```python
+count = 0
+while count < 5:
+    count += 1
+    if count == 3:
+        break          # TODO: what happens when count reaches 3?
+    print("Inside loop:", count)
+print("Loop ended.")
+```
+
+Question: Which keyword makes the loop stop early when a condition is met?
