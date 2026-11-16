@@ -175,3 +175,26 @@ print(result)  # What will this print?
 
 Question
 Which keyword tells the function to give back a value?
+
+---
+## 2026-11-16 13:14, in .
+
+**Me:** What is the difference between return and print in a Python function?
+
+**Tutor:**
+
+Printing vs returning values from a function.
+
+- print() sends text to the console so you can see it.
+- return gives the value back to the code that called the function so it can be used later.
+
+Pattern
+```python
+def add(a, b):
+    total = a + b
+    # TODO: decide whether to print or return the total
+    # print(total)   # uncomment to print
+    # return total   # uncomment to return
+```
+
+Question: If you want the result of add(3, 5) to be stored in the variable x, which keyword must you use in the function?

@@ -26,10 +26,22 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My function name, and why return rather than print:
+# 1. In: A list of campaign budgets in euros.
+# 2. Process: Add all the budgets in the list
+# 3. Out:The total budget in euros
+# 4. My function name, and why return rather than print: My function is called calculate_total_budget because it calculates the total budget.
+# I use return so I can store the result in a variable and display it later with print().
 
 
 # Your code below
+def calculate_total_budget(budgets):
+    return sum(budgets)
+
+
+budgets = [100, 200, 150, 300, 250, 400, 350, 500]
+
+print("Total for all campaigns:", calculate_total_budget(budgets), "euros")
+print("Total for the first three campaigns:", calculate_total_budget(budgets[:3]), "euros")
+
+# An empty list returns 0. This makes sense because there are no campaign budgets to add.
+print("Total for an empty list:", calculate_total_budget([]), "euros")
