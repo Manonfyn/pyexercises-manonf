@@ -198,3 +198,12 @@ def add(a, b):
 ```
 
 Question: If you want the result of add(3, 5) to be stored in the variable x, which keyword must you use in the function?
+
+---
+## 2026-11-16 13:37, in .
+
+**Me:** Why do we use append mode when saving data to a CSV file?
+
+**Tutor:**
+
+Refused, off topic.
