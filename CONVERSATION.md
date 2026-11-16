@@ -152,3 +152,26 @@ print("Loop ended.")
 ```
 
 Question: Which keyword makes the loop stop early when a condition is met?
+
+---
+## 2026-11-16 12:54, in .
+
+**Me:** What does return do in a Python function?
+
+**Tutor:**
+
+The concept
+A function’s return statement hands a value back to whoever called the function.
+
+Pattern
+```python
+def double(x):
+    # TODO: multiply x by 2 and return the result
+    pass
+
+result = double(5)
+print(result)  # What will this print?
+```
+
+Question
+Which keyword tells the function to give back a value?
