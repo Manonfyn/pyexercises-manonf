@@ -261,3 +261,12 @@ Refused, off topic.
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-11-16 14:58, in .
+
+**Me:** Why use split with a limit of 1 when sorting names in Python?
+
+**Tutor:**
+
+Refused, off topic.
